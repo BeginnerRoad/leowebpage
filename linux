@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>Linux Basics</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Linux 学習ページ</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="linux.html">Linux</a>
+    <a href="network.html">Network</a>
+    <a href="node.html">Node.js</a>
+  </nav>
+</header>
+
+<main>
+  <h2>学べる内容</h2>
+
+  <ul>
+    <li>ファイル操作</li>
+    <li>ディレクトリ操作</li>
+    <li>パーミッション</li>
+    <li>シェルスクリプト</li>
+  </ul>
+
+  <p>
+    Linux は多くのサーバで利用されている重要な OS です。  
+    基本コマンドを覚えることで作業効率が大きく向上します。
+  </p>
+
+</main>
+
+</body>
+</html>
