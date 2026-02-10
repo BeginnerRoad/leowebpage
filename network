@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>Network Basics</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>ネットワーク基礎</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="linux.html">Linux</a>
+    <a href="network.html">Network</a>
+    <a href="node.html">Node.js</a>
+  </nav>
+</header>
+
+<main>
+  <h2>ネットワークの学習テーマ</h2>
+
+  <ul>
+    <li>IP アドレス</li>
+    <li>TCP / UDP</li>
+    <li>HTTP / HTTPS</li>
+    <li>DNS の仕組み</li>
+  </ul>
+
+</main>
+
+</body>
+</html>
