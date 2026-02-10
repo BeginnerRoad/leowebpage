@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>IT Learning Portal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>IT Learning Portal</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="linux.html">Linux</a>
+    <a href="network.html">Network</a>
+    <a href="node.html">Node.js</a>
+  </nav>
+</header>
+
+<main>
+  <h2>このサイトについて</h2>
+
+  <p>
+    このサイトは、IT を学び始めた初心者が  
+    基礎知識を整理するための学習ポータルです。
+  </p>
+
+  <ul>
+    <li>Linux コマンドの基礎</li>
+    <li>ネットワークの仕組み</li>
+    <li>Node.js プログラミング</li>
+  </ul>
+
+  <button onclick="showMessage()">クリックして学習開始！</button>
+
+  <p id="msg"></p>
+
+</main>
+
+<footer>
+  <p>© 2026 IT Learning Portal</p>
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
