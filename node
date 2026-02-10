@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>Node.js Basics</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Node.js 入門</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="linux.html">Linux</a>
+    <a href="network.html">Network</a>
+    <a href="node.html">Node.js</a>
+  </nav>
+</header>
+
+<main>
+  <h2>Node.js で学べること</h2>
+
+  <ul>
+    <li>JavaScript プログラミング</li>
+    <li>非同期処理</li>
+    <li>テストコード</li>
+    <li>Web アプリ開発</li>
+  </ul>
+
+</main>
+
+</body>
+</html>
